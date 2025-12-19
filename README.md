@@ -1,8 +1,4 @@
-<think>
-First, the user wants me to convert the entire provided text into a downloadable README.md file. The text is a description of a project, structured like a README.
-
-- The user needs the project description converted into a downloadable README.md file.
-</think># IMDB Sentiment Analysis — End-to-End ML + CI/CD
+# IMDB Sentiment Analysis — End-to-End ML + CI/CD
 
 This project implements an end-to-end sentiment analysis system using classical NLP techniques and demonstrates production-ready ML engineering practices, including API deployment, Docker containerization, and CI/CD automation.
 
